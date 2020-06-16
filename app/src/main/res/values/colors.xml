@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="app_gradient_start">#3B9EFF</color> //blue start
+    <color name="app_gradient_start_60">#603B9EFF</color> //blue start
+    <color name="app_gradient_start_10">#103B9EFF</color> //blue start
+    <color name="app_gradient_end">#38C9E5</color> //blue end
+    <color name="calendar_event_color">#BBD6EF</color>
+    <color name="app_status_bar_color1">#0070cb</color>
+    <color name="app_status_bar_color2">#2962ff</color>
+    <color name="app_status_bar_color3">#1976d2</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteWithLessAlpha">#b7ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlack_50">#70000000</color>
+    <color name="colorGrey">#808080</color>
+    <color name="colorGrey_light">#D6D6D6</color>
+    <color name="color_grey_light_background">#EEEEEE</color>
+    <color name="color_green_light">#8BC34A</color>
+
+    <color name="call_header">#7d2b2a2a</color>
+    <color name="battery_color">#20a914</color>
+
+    <color name="card_view_background">#fafafa</color>
+
+    <color name="red">#f7193e</color>
+    <color name="color_blue">#03a9f4</color>
+    <color name="card_background_grey">#F0F0F0</color>
+
+    <color name="call_vital_title">#64000000</color>
+
+    <color name="char_line_3">#FFA555</color>
+    <color name="char_line_1">#59BAF6</color>
+    <color name="char_line_2">#FF363C</color>
+    <color name="char_popup_background">#0A192A</color>
+
+    <color name="status_available">#00E800</color>
+    <color name="status_away">#FFF3B138</color>
+    <color name="status_offline">#CCCCCC</color>
+    <color name="status_busy">#FF001A</color>
+    <color name="status_activation_pending">#FFEB3B</color>
+
+    <color name="call_popup_background">#46495B</color>
+    <color name="call_join">#51C442</color>
+
+    <color name="vital_good">#00E800</color>
+</resources>
